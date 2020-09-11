@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+gcc -o bin main.c
+./bin

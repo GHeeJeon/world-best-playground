@@ -1,4 +1,4 @@
-# world-best-c-language-game
+# world-best-c-and-python-game
 *세상에서제일재밌뉸C언어노리이   
 세상에서제일재밌뉸파이썬노리이*   
 

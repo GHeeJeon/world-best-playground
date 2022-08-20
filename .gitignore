@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c,python,java,macos,vim,intellij+all,maven
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,python,java,macos,vim,intellij+all,maven
 
+**/.idea
+*/.idea
+StringUtilsTest/.idea
+
 ### C ###
 # Prerequisites
 *.d
